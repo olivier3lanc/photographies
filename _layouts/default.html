@@ -1,0 +1,67 @@
+---
+---
+<!DOCTYPE html>
+<html itemscope itemtype="https://schema.org/WebPage" prefix="og:http://ogp.me/ns#">
+    <head>
+        <title>{{page.title|default: site.title}}</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/user-context/css/normalize.css">
+        <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/user-context/css/photoswipe.css">
+        <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/user-context/css/demo.css">
+    </head>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="{{site.url}}{{site.baseurl}}">Accueil</a></li>
+                <li>
+                    <header>Animaux</header>
+                    <ul>
+                        <li><a href="{{site.url}}{{site.baseurl}}/animaux-sauvages.html">Sauvages</a></li>
+                        <li><a href="{{site.url}}{{site.baseurl}}/animaux-captifs.html">Captifs</a></li>
+                        <li><a href="{{site.url}}{{site.baseurl}}/animaux-domestiques.html">Domestiques</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <header>Paysages</header>
+                    <ul>
+                        <li><a href="{{site.url}}{{site.baseurl}}/paysages-hiver.html">Hiver</a></li>
+                        <li><a href="{{site.url}}{{site.baseurl}}/paysages-automne.html">Automne</a></li>
+                        <li><a href="{{site.url}}{{site.baseurl}}/paysages-ete.html">Été</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+        <main>
+            <header>
+                <h1>{{page.title|default: site.title}}</h1>
+                {% if page.description %}
+                    <p>{{page.description}}</p>
+                {% endif %}
+            </header>
+            <ul id="gallery">
+                {% for file in site.static_files %}
+                    {% assign split_temp = file.path|split: 'size_'%}
+                    {% assign split_sizes = split_temp[1]|split: 'x'%}
+                    {% assign height = split_sizes[1]|split: '.webp'%}
+                    {% assign height = height[0] %}
+                    {% assign width = split_sizes[0] %}
+                    {% if file.path contains page.path %}
+                        <li>
+                            <a  href="{{site.url}}{{site.baseurl}}{{file.path}}"
+                                data-pswp-width="{{width}}" 
+                                data-pswp-height="{{height}}" 
+                                target="_blank"
+                                style="background-image: url('https://images.weserv.nl/?url=https://olivier3lanc.github.io/photographies{{file.path}}&w=600&height=600&fit=cover&output=webp&q=30');">
+                                {{file.path}}
+                            </a>
+                        </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </main>
+        
+        <script type="module" src="{{site.url}}{{site.baseurl}}/user-context/js/demo.js"></script>
+    </body>
+</html>
