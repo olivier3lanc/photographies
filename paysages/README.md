@@ -1,7 +1,7 @@
 # Paysages
 
-[Automne](/automne)
+[Automne](/paysages/automne)
 
-[Été](/ete)
+[Été](/paysages/ete)
 
-[Hiver](/hiver)
+[Hiver](/paysages/hiver)
