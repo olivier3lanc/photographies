@@ -1,7 +1,9 @@
+[Accueil](/#readme) | [Animaux](/animaux#readme) | [Paysages](/paysages#readme) | [Photoshop](/photoshop#readme)
+
 # Paysages
 
-[Automne](/paysages/automne#README)
+[Automne](/paysages/automne#readme)
 
-[Été](/paysages/ete#README)
+[Été](/paysages/ete#readme)
 
-[Hiver](/paysages/hiver#README)
+[Hiver](/paysages/hiver#readme)
