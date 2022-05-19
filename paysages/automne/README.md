@@ -1,7 +1,6 @@
 # Paysages d'automne
 
-## Le Lac de la Thuile en Automne - Savoie
-[![Le Lac de la Thuile en Automne - Savoie](lac_thuile_automne_mg_6008__mg_6012-5-images_size_3200x1600.webp)](https://raw.githubusercontent.com/olivier3lanc/photographies/master/paysages/automne/lac_thuile_automne_mg_6008__mg_6012-5-images_size_3200x1600.webp)
+> ##### Le Lac de la Thuile en Automne - Savoie <br><br>[![Le Lac de la Thuile en Automne - Savoie](lac_thuile_automne_mg_6008__mg_6012-5-images_size_3200x1600.webp)](https://raw.githubusercontent.com/olivier3lanc/photographies/master/paysages/automne/lac_thuile_automne_mg_6008__mg_6012-5-images_size_3200x1600.webp)
 
 ## Père et Fils au Lac de La Thuile - Savoie
 [![Père et Fils au Lac de La Thuile - Savoie](pere_fils_la_thuile_mg_6033_size_2560x1706.webp)](https://raw.githubusercontent.com/olivier3lanc/photographies/master/paysages/automne/pere_fils_la_thuile_mg_6033_size_2560x1706.webp)
