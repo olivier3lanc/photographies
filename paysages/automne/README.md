@@ -1,4 +1,4 @@
-[Animaux](/animaux#readme) | [Paysages](/paysages#readme) | [Photoshop](/photoshop#readme)
+[Accueil](/#readme) > [Paysages](/paysages#readme) > Automne
 
 # Paysages d'automne
 
