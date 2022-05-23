@@ -20,5 +20,11 @@
 ### [Noir et blanc](/paysages/noir-et-blanc#readme)
 > [![Noir et blanc](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/paysages/noir-et-blanc/plan_de_la_laie_roselend_3_nb_img_0515_size_2560x1706.webp&output=webp&w=976&dpr=2&q=40)](/paysages/noir-et-blanc#readme)
 
+### [Nuit](/paysages/nuit#readme)
+> [![Nuit](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/paysages/nuit/_MG_1988_size_2500x1667.webp&output=webp&w=976&dpr=2&q=40)](/paysages/nuit#readme)
+
+### [Pluie](/paysages/pluie#readme)
+> [![Pluie](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/paysages/pluie/orage_et_soleil_beaufortain_mg_1576_size_2560x1706.webp&output=webp&w=976&dpr=2&q=40)](/paysages/pluie#readme)
+
 
 
