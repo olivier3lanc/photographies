@@ -17,14 +17,15 @@
 #### Marmotte buvant un soda
 ![Marmotte buvant un soda](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/photo-montages/img_8651-wallpaper.jpg&output=webp&q=30&w=1012&dpr=2)
 
-#### Les 4 saison sdu barrage de Roselend
-![Les 4 saison sdu barrage de Roselend](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/photo-montages/le_barrage_de_roselend.jpg&output=webp&q=30&w=1012&dpr=2)
+#### Les 4 saisons du barrage de Roselend
+![Les 4 saisons du barrage de Roselend](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/photo-montages/le_barrage_de_roselend.jpg&output=webp&q=30&w=1012&dpr=2)
 
 #### Le Pti Noir
 ![Le Pti Noir](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/photo-montages/le_pti_noir2.jpg&output=webp&q=30&w=1012&dpr=2)
 
 #### Men in Kolor
+Montage pour les 10 ans de Kolor - RIP
 ![Men in Kolor](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/photo-montages/men-in-black.jpg&output=webp&q=30&w=1012&dpr=2)
 
-Montage pour les 10 ans de Kolor
+
 

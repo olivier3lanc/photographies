@@ -3,7 +3,7 @@
 # Animaux
 
 ### [Sauvages](/animaux/sauvages#readme)
-> [![Sauvages](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_4417.jpg.jpg&output=webp&w=976&dpr=2&q=40)](/animaux/sauvages#readme)
+> [![Sauvages](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_4417.jpg&output=webp&w=976&dpr=2&q=40)](/animaux/sauvages#readme)
 
 ### [Captifs](/animaux/captifs#readme)
 > [![Captifs](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/captifs/Peroline_la_Panthere_de_Ceylan_IMG_1339.jpg&output=webp&w=976&dpr=2&q=40)](/animaux/captifs#readme)

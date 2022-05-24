@@ -12,8 +12,8 @@
 > [![Inceptions](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/inceptions/inception-18.jpg&output=webp&w=976&dpr=2&q=40)](/photoshop/inceptions/#readme)
 
 ### [Mirrors](/photoshop/mirrors/#readme)
-> [![Mirrors](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/mirrors/imirrors-creatures-039.jpg&output=webp&w=976&dpr=2&q=40)](/photoshop/mirrors/#readme)
+> [![Mirrors](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/mirrors/mirrors-creatures-039.jpg&output=webp&w=976&dpr=2&q=41)](/photoshop/mirrors/#readme)
 
 ### [Photo-montages](/photoshop/photo-montages/#readme)
-> [![Photo-montages](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/photo-montages/img_8651-wallpaper.jpg&output=webp&w=976&dpr=2&q=40)](/photoshop/photo-montages/#readme)
+> [![Photo-montages](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/photoshop/photo-montages/img_8651-wallpaper.jpg&output=webp&w=976&dpr=2&q=41)](/photoshop/photo-montages/#readme)
 
