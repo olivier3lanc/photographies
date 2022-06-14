@@ -267,21 +267,6 @@
 ![Marmotton](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/IMG_8633.jpg&output=webp&q=30&w=1012&dpr=2)
 
   
-#### Libellule - undefined
-
-![Libellule](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/IMG_8641.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
-#### Marmotte 2763 - Marmota marmota
-
-![Marmotte 2763](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/_mg_2763.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
-#### Marmotte 2758 - Marmota marmota
-
-![Marmotte 2758](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/_mg_2758.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
 #### Marmotton 2166 - Marmota marmota
 
 ![Marmotton 2166](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_2166.jpg&output=webp&q=30&w=1012&dpr=2)
@@ -337,19 +322,9 @@
 ![Marmotton 2198](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_2198.jpg&output=webp&q=30&w=1012&dpr=2)
 
   
-#### Marmotton 2122 - Marmota marmota
-
-![Marmotton 2122](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_2122.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
 #### Marmotton 2123 - Marmota marmota
 
 ![Marmotton 2123](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_2123.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
-#### Marmotton 2125 - Marmota marmota
-
-![Marmotton 2125](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_2125.jpg&output=webp&q=30&w=1012&dpr=2)
 
   
 #### Marmotton 2127 - Marmota marmota
@@ -367,21 +342,6 @@
 ![Marmotton 2129](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_2129.jpg&output=webp&q=30&w=1012&dpr=2)
 
   
-#### Marmotton 2246 - Marmota marmota
-
-![Marmotton 2246](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_2246.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
-#### Marmotte 2691 - Marmota marmota
-
-![Marmotte 2691](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/_mg_2691.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
-#### Marmotte 2692 - Marmota marmota
-
-![Marmotte 2692](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/_mg_2692.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
 #### Marmotte 2694 - Marmota marmota
 
 ![Marmotte 2694](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/_mg_2694.jpg&output=webp&q=30&w=1012&dpr=2)
@@ -390,11 +350,6 @@
 #### Marmotte 2696 - Marmota marmota
 
 ![Marmotte 2696](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/_mg_2696.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
-#### Marmotte 2701 - Marmota marmota
-
-![Marmotte 2701](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/_mg_2701.jpg&output=webp&q=30&w=1012&dpr=2)
 
   
 #### Marmotte 2703 - Marmota marmota
@@ -415,16 +370,6 @@
 #### Marmotte 2722 - Marmota marmota
 
 ![Marmotte 2722](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/_mg_2722.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
-#### Marmotte 2727 - Marmota marmota
-
-![Marmotte 2727](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/_mg_2727.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
-#### Marmotte 2728 - Marmota marmota
-
-![Marmotte 2728](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/_mg_2728.jpg&output=webp&q=30&w=1012&dpr=2)
 
   
 #### Marmotte 2730 - Marmota marmota
@@ -527,11 +472,6 @@
 ![Marmotte des Alpes 1060700](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/p1060700.jpg&output=webp&q=30&w=1012&dpr=2)
 
   
-#### Marmotte sur son rocher - Marmota marmota
-
-![Marmotte sur son rocher](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/IMG_1677.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
 #### Vautour Fauve 0964 - Gyps fulvus
 
 ![Vautour Fauve 0964](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/IMG_0964.jpg&output=webp&q=30&w=1012&dpr=2)
@@ -560,21 +500,6 @@
 #### Vautour Fauve de Rémuzat 8388 - Gyps fulvus
 
 ![Vautour Fauve de Rémuzat 8388](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/img_8388.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
-#### Gypaète barbu adulte en vol 7483 - Gypaetus barbatus
-
-![Gypaète barbu adulte en vol 7483](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/IMG_7483.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
-#### Gypaète barbu adulte en vol 7484 - Gypaetus barbatus
-
-![Gypaète barbu adulte en vol 7484](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/IMG_7484.jpg&output=webp&q=30&w=1012&dpr=2)
-
-  
-#### Gypaète barbu adulte en vol 7474 - Gypaetus barbatus
-
-![Gypaète barbu adulte en vol 7474](https://images.weserv.nl/?url=https://raw.githubusercontent.com/olivier3lanc/photographies/master/animaux/sauvages/IMG_7474.jpg&output=webp&q=30&w=1012&dpr=2)
 
   
 #### Téo le Gypaète Barbu Juvénile 3 - Gypaetus barbatus
