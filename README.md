@@ -1,3 +1,11 @@
+---
+title: 0|3 Artworks
+description: Creative photography and web artworks
+layout: libdoc_page.liquid
+permalink: index.html
+date: git Last Modified
+---
+
 [Animaux](/animaux#readme) | [Paysages](/paysages#readme) | [Photoshop](/photoshop#readme)
 
 # Photographies
